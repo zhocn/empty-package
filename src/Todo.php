@@ -14,8 +14,13 @@ class Todo
         echo "todo1";
     }
 
-    public funciton index2() 
+    public function index2()
     {
         echo "todo2";
+    }
+
+    public function index3()
+    {
+        echo "todo3";
     }
 }
