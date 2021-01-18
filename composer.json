@@ -1,0 +1,13 @@
+{
+  "name": "moone/todo",
+  "description": "todo",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Todo\\": "/src"
+    }
+  }
+}
